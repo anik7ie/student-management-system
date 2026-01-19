@@ -12,7 +12,7 @@ A Python-based command-line interface (CLI) for managing students, courses, and 
 
 ## Project Structure
 
--   `project.py`: Main application logic.
+-   `student_manager.py`: Main application logic.
 -   `students.txt`: Database of registered students.
 -   `courses.txt`: List of available courses.
 -   `passed.txt`: Record of completed courses and grades.
@@ -22,7 +22,7 @@ A Python-based command-line interface (CLI) for managing students, courses, and 
 Ensure you have Python 3 installed.
 
 ```bash
-python3 project.py
+python3 student_manager.py
 ```
 
 ## Usage
